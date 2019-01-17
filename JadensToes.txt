@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-My toes
-Bada bing
->>>>>>> parent of 302401e... Update JadensToes.txt
-=======
-My toes
-Bada bing
-No toes
->>>>>>> parent of 1ef1d70... Update JadensToes.txt
+l
